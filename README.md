@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋, I'm Prina Jindal</h1>
+<h1 align="center"><img width="40" height="40" src="https://icons-for-free.com/iff/png/512/Coding-1320568096072194118.png" > Hello there 👋, I'm Prina Jindal <img width="40" height="40" src="https://icons-for-free.com/iff/png/512/Coding-1320568096072194118.png"></h1> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prina003&label=Profile%20views&color=0e75b6&style=flat" alt="prina003" /> </p>
 
