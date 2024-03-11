@@ -6,7 +6,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/.prina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt=".prina" height="30" width="40" /></a>
+<a href="https://instagram.com/.prina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt=".prina" height="45" width="55" /></a>
+<a href="https://www.linkedin.com/in/prina-jindal-05178628a" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=".prina" height="45" width="140" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
